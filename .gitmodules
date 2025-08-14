@@ -1,0 +1,3 @@
+[submodule "Adapter-Pattern"]
+	path = Adapter-Pattern
+	url = https://github.com/oishik-c/adapter-pattern.git
