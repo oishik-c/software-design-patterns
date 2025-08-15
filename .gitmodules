@@ -1,3 +1,6 @@
 [submodule "Adapter-Pattern"]
 	path = Adapter-Pattern
 	url = https://github.com/oishik-c/adapter-pattern.git
+[submodule "Facade-Pattern"]
+	path = Facade-Pattern
+	url = https://github.com/oishik-c/facade-pattern.git
