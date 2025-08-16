@@ -4,3 +4,6 @@
 [submodule "Facade-Pattern"]
 	path = Facade-Pattern
 	url = https://github.com/oishik-c/facade-pattern.git
+[submodule "Composite-Pattern"]
+	path = Composite-Pattern
+	url = https://github.com/oishik-c/composite-pattern.git
