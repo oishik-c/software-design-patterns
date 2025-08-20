@@ -10,3 +10,6 @@
 [submodule "Bridge-Pattern"]
 	path = Bridge-Pattern
 	url = https://github.com/oishik-c/bridge-pattern.git
+[submodule "Decorator-Pattern"]
+	path = Decorator-Pattern
+	url = https://github.com/oishik-c/decorator-pattern.git
