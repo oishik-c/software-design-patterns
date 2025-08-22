@@ -13,3 +13,6 @@
 [submodule "Decorator-Pattern"]
 	path = Decorator-Pattern
 	url = https://github.com/oishik-c/decorator-pattern.git
+[submodule "Flyweight-Pattern"]
+	path = Flyweight-Pattern
+	url = https://github.com/oishik-c/flyweight-pattern.git
