@@ -16,3 +16,6 @@
 [submodule "Flyweight-Pattern"]
 	path = Flyweight-Pattern
 	url = https://github.com/oishik-c/flyweight-pattern.git
+[submodule "Proxy-Pattern"]
+	path = Proxy-Pattern
+	url = https://github.com/oishik-c/proxy-pattern.git
