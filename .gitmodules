@@ -19,3 +19,6 @@
 [submodule "Structural-Patterns/Adapter-Pattern"]
 	path = Structural-Patterns/Adapter-Pattern
 	url = https://github.com/oishik-c/adapter-pattern.git
+[submodule "Creational-Patterns/Factory-Method"]
+	path = Creational-Patterns/Factory-Method
+	url = https://github.com/oishik-c/factory-method-pattern.git
