@@ -1,21 +1,21 @@
-[submodule "Adapter-Pattern"]
-	path = Adapter-Pattern
-	url = https://github.com/oishik-c/adapter-pattern.git
-[submodule "Facade-Pattern"]
-	path = Facade-Pattern
+[submodule "Structural-Patterns/Facade-Pattern"]
+	path = Structural-Patterns/Facade-Pattern
 	url = https://github.com/oishik-c/facade-pattern.git
-[submodule "Composite-Pattern"]
-	path = Composite-Pattern
+[submodule "Structural-Patterns/Composite-Pattern"]
+	path = Structural-Patterns/Composite-Pattern
 	url = https://github.com/oishik-c/composite-pattern.git
-[submodule "Bridge-Pattern"]
-	path = Bridge-Pattern
+[submodule "Structural-Patterns/Bridge-Pattern"]
+	path = Structural-Patterns/Bridge-Pattern
 	url = https://github.com/oishik-c/bridge-pattern.git
-[submodule "Decorator-Pattern"]
-	path = Decorator-Pattern
+[submodule "Structural-Patterns/Decorator-Pattern"]
+	path = Structural-Patterns/Decorator-Pattern
 	url = https://github.com/oishik-c/decorator-pattern.git
-[submodule "Flyweight-Pattern"]
-	path = Flyweight-Pattern
+[submodule "Structural-Patterns/Flyweight-Pattern"]
+	path = Structural-Patterns/Flyweight-Pattern
 	url = https://github.com/oishik-c/flyweight-pattern.git
-[submodule "Proxy-Pattern"]
-	path = Proxy-Pattern
+[submodule "Structural-Patterns/Proxy-Pattern"]
+	path = Structural-Patterns/Proxy-Pattern
 	url = https://github.com/oishik-c/proxy-pattern.git
+[submodule "Structural-Patterns/Adapter-Pattern"]
+	path = Structural-Patterns/Adapter-Pattern
+	url = https://github.com/oishik-c/adapter-pattern.git
