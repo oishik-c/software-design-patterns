@@ -22,3 +22,9 @@
 [submodule "Creational-Patterns/Factory-Method"]
 	path = Creational-Patterns/Factory-Method
 	url = https://github.com/oishik-c/factory-method-pattern.git
+[submodule "Creational-Patterns/Builder-Pattern"]
+	path = Creational-Patterns/Builder-Pattern
+	url = https://github.com/oishik-c/builder-pattern.git
+[submodule "Creational-Patterns/Abstract Factory Pattern"]
+	path = Creational-Patterns/Abstract Factory Pattern
+	url = https://github.com/oishik-c/abstract-factory-pattern.git
